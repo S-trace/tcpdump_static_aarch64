@@ -1,0 +1,6 @@
+id=tcpdump_static_aarch64
+name=Static AARCH64 tcpdump v4.9.2
+version=4.9.2_magisk0
+versionCode=40902
+author=S-trace
+description=Add the static AARCH64 Tcpdump binary - a command-line tool for capturing network packets from the device's network interfaces.
